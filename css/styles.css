@@ -1,0 +1,173 @@
+/* hover  */
+
+.navbar-brand:hover {
+    color: #ff9642;
+}
+
+.nav-link:hover {
+    color: #ff9642;
+}
+
+/* heading */
+
+h1 {
+    color: #ff9642;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #f7fbfc;
+    position: relative;
+    bottom: 50px;
+    padding-bottom: 20px;
+}
+
+p {
+    color: white;
+}
+
+/* home  */
+
+.colored-section {
+    background-color: #000000;
+    opacity: 93%;
+
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: #f7fbfc;
+    position: relative;
+    left: 68rem;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    color: #f7fbfc;
+}
+
+.navbar .navbar-brand {
+    font-size: 15px;
+}
+
+.content-text {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.content {
+    background-color: #1A1A1D;
+    padding: 125px 0 155px 0;
+
+
+}
+
+.content-text .title-text {
+    position: relative;
+    bottom: 60px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.content-text,
+p {
+    color: #a6a6a4;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom: 35px;
+    font-size: 20px;
+    line-height: 15px;
+
+}
+
+img {
+    float: right;
+    width: 43%;
+    position: relative;
+    bottom: 30.2em;
+    opacity: 80%;
+}
+
+/* about  */
+
+.about-section {
+    background-color: #000000;
+    opacity: 93%;
+    padding: 100px 0 50px 100px;
+}
+
+.about-content h2 {
+    color: #ff9642;
+    position: relative;
+    bottom: 25px;
+    font-size: 35px;
+
+}
+
+.about-content p {
+    line-height: 20px;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+/* work  */
+
+.work-section {
+    background-color: #1A1A1D;
+    opacity: 100%;
+    padding: 100px 100px 50em 100px;
+}
+
+.work-content h2 {
+    text-align: center;
+    font-size: 35px;
+    color: #ff9642;
+}
+
+.work-section p {
+    margin-right: 30em;
+    line-height: 20px;
+    position: relative;
+    top: 10em;
+}
+
+.work-section img {
+    height: 30%;
+    width: 30%;
+    position: relative;
+    top: 1em;
+}
+
+.work-content>.coding-image {
+    height: 30%;
+    width: 30%;
+    position: relative;
+    right: 27em;
+    position: relative;
+    top: 30em;
+}
+
+.work-content>.coding-text {
+    position: relative;
+    left: 32.5em;
+    position: relative;
+    top: 28em;
+}
+
+/* footer  */
+
+#footer {
+    background-color: #fff;
+    padding: 15px 0 0px 0;
+}
+
+.footer-section p {
+    color: #1A1A1D;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
